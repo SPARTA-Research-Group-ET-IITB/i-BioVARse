@@ -10,27 +10,31 @@ With i-BioVARse, students can explore the intricacies of the human anatomy throu
 
 - Interactive 3D Models: Users can interact with highly detailed 3D models of the human anatomy, allowing them to zoom, rotate, and examine the different structures up close.
 
-- AR Simulations: The app utilizes augmented reality technology to overlay virtual elements onto the real world, enabling students to visualize the human anatomy in their immediate surroundings.
+- AR Simulations: The app utilizes augmented reality technology to overlay virtual elements onto the real world, enabling students to visualize the human anatomy in their immediate surroundings, all using already existing figures and images present in the NCERT textbooks.
 
-- Educational Content: Detailed textual information accompanies each module, providing comprehensive explanations of the human eye's structure, functions, and related concepts.
+- Educational Multi-media Content: Detailed textual information accompanies each module, including video demonstration, text/audio explanations, English-Hindi language translations, Inbuilt-Notes integration chapter wise PDFs providing comprehensive explanations of the human anatomy.
 
 - Engaging Activities: The app includes interactive activities and quizzes to test and reinforce the knowledge gained from exploring the 3D models and educational content.
 
-- Accessibility: i-BioVARse offers features for different learning preferences, including text-to-speech functionality, adjustable font sizes, and language options to cater to diverse student needs.
+- Accessibility: i-BioVARse offers features for different learning preferences, including text-to-speech functionality, and language options to cater to diverse student needs along with touch, buttons and joystic controls for even better accessibility and navigation.
 
 ## Installation
 
-To install i-BioVARse on your compatible device, follow these steps:
+To install i-BioVARse on your compatible android device, follow these steps:
 
-1. Visit the i-BioVARse GitHub repository: [(https://github.com/SPARTA-Research-Group-ET-IITB/i-BioVARse/)]
+1. Visit this link: [(https://drive.google.com/file/d/11Q3Nt3FJKicqQyST4kH5JSmVXluF69OM/view?usp=sharing)]
 
-2. Follow the instructions provided in the documentation to set up and configure the app.
+2. Download and install the app to your compatible android device.
 
-3. Once the setup is complete, launch the i-BioVARse app and begin your immersive journey into the learning biology.
+3. Grant permissions asked by app for a smooth and hassle free experience.
+
+4. Follow the instructions provided in the User Manual to set up and configure the app. [User Manual: (https://drive.google.com/file/d/1C3Oy5leqnblwpJEXaxRMl2cmgSolJdnV/view?usp=sharing)]
+
+5. Explore i-BioVARse app and begin your immersive journey into the learning biology.
 
 ## Support
 
-If you encounter any issues, have suggestions, or need assistance with i-BioVARse, please create an issue in the GitHub repository. Our team will actively monitor and address the reported issues.
+If you encounter any issues, have suggestions, or need assistance with i-BioVARse, please see the FAQ section or create an issue in the GitHub repository. Our team will actively monitor and address the reported issues.
 
 ## Contact
 

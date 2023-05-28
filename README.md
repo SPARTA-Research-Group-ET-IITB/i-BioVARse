@@ -44,46 +44,46 @@ For any inquiries or further information, please contact us at [spartaresearchgr
 We hope you enjoy using i-BioVARse and find it a valuable resource for learning biology. Happy exploring!
 
 
-
+<br><br>
 ## FAQs
 
 
 Q: What is i-BioVARse?
 
 A: i-BioVARse is an innovative app developed at the IDO in Educational Technology Department, IIT Bombay. It is a comprehensive NCERT textbook companion app designed for biology students. The app utilizes augmented reality technology to display 3D models based on textbook figures, offering an interactive and immersive learning experience.
-
+<br><br>
 
 Q: How can I download and install i-BioVARse?
 
 A: To download and install i-BioVARse, please visit our GitHub repository at [https://github.com/SPARTA-Research-Group-ET-IITB/i-BioVARse]. You will find the necessary files and instructions to download and install the app on your device.
-
+<br><br>
 
 Q: Can I use i-BioVARse without an internet connection?
 
 A: Yes, i-BioVARse can be used without an internet connection once the app is installed on your device. However, certain features like accessing chapter PDFs, video explanations may require an internet connection.
-
+<br><br>
 
 Q: Is i-BioVARse compatible with all NCERT biology textbooks?
 
 A: i-BioVARse is designed to be a companion app for NCERT high school biology textbooks. It supports a wide range of topics and chapters covered in these textbooks. However, please note that it may not cover every single page or concept mentioned in the textbooks. Currently five 
 chapters/topics are supported.
-
+<br><br>
 
 Q: Is i-BioVARse available in languages other than English?
 
 A: Currently, i-BioVARse primarily supports English language content. However, it offers Hindi language translations for text-audio explanations, making it accessible to a wider audience.
-
+<br><br>
 
 Q: How do I calibrate the augmented reality (AR) experience in i-BioVARse?
 
 A: To calibrate the AR experience in i-BioVARse, ensure that you are in a well-lit environment with sufficient lighting. Hold your device steady and move it around the room, allowing the app to detect and track the markers. If the models appear misaligned or unstable, try adjusting the 
 lighting conditions or repositioning the markers.
-
+<br><br>
 
 Q: Can I use i-BioVARse on iOS devices?
 
 A: Currently, i-BioVARse is available for Android devices only. However, we are actively working on expanding our platform compatibility, and an iOS version may be available in the future.
-
+<br><br>
 
 Q: Can I customize the level of difficulty for the in-app quizzes?
 

@@ -1,4 +1,5 @@
-#i-BioVARse (Interactive Biology Virtual and Augmented Reality System for Education)
+# i-BioVARse 
+## (Interactive Biology Virtual and Augmented Reality System for Education)
 
 ## Installation
 

@@ -10,3 +10,7 @@
 
 3. If any issue or help needed kindly contact us at [spartaresearchgroup@gmail.com]
 
+## AR Markers
+
+Download AR markers from this link: https://drive.google.com/drive/folders/1u6_lU3U4fwe0yt6cT62LEIGPcBSC_ChU?usp=sharing
+

@@ -33,6 +33,10 @@ To install i-BioVARse on your compatible android device, follow these steps:
 
 5. Explore i-BioVARse app and begin your immersive journey into the learning biology.
 
+## AR Markers
+
+Download AR markers from this link: https://drive.google.com/drive/folders/1u6_lU3U4fwe0yt6cT62LEIGPcBSC_ChU?usp=sharing
+
 ## Support
 
 If you encounter any issues, have suggestions, or need assistance with i-BioVARse, please see the FAQ section or create an issue in the GitHub repository. Our team will actively monitor and address the reported issues.
